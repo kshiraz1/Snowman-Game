@@ -1,0 +1,15 @@
+                                                                             SNOWMAN GAME
+
+Bring the snow back to the snowman planet by stacking the snowballs through the sky and space all the way home.
+
+Directions:
+1. Make sure you have pygame and random
+2. Download the Snowman_game.py and all the images to the same folder
+3. Play to your hearts content
+
+How to play: 
+Stack the snowballs by moving the bottom snowball left and right using the left and right arrow keys
+Be sure to catch a snowball before time runs out...the bottom is melting
+BEWARE of falling coal, it instantly melts 3 snowballs
+LUCKY catch the snowman and instantly gain 3 snowballs
+NICE catch the snowflake and enjoy speedy snowballs
